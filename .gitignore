@@ -1,0 +1,6 @@
+# This tells Git what to ignore (temporary files, secrets, dependencies).
+
+node_modules/
+__pycache__/
+*.env
+*.sqlite3
